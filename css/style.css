@@ -40,4 +40,52 @@
   height: 298px;
   padding: 20px;
   width: 100%;
+  border: 2px solid rgba(212, 211, 211, 0.3);
+  background: #f8f8f8;
+}
+
+.text-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-top: -300px;
+}
+
+.text1 {
+  max-width: 350px;
+  width: 100%;
+  height: 59px;
+  margin-bottom: 20px;
+  padding: 21px;
+  border: 2px solid rgba(212, 211, 211, 0.3);
+  background: #f8f8f8;
+}
+
+.text2 {
+  max-width: 350px;
+  width: 100%;
+  height: 59px;
+  margin-bottom: 20px;
+  padding: 21px;
+  border: 2px solid rgba(212, 211, 211, 0.3);
+  background: #f8f8f8;
+}
+
+.email {
+  max-width: 350px;
+  width: 100%;
+  height: 59px;
+  margin-bottom: 20px;
+  padding: 21px;
+  border: 2px solid rgba(212, 211, 211, 0.3);
+  background: #f8f8f8;
+}
+
+.button-1 {
+  max-width: 350px;
+  width: 100%;
+  height: 59px;
+  margin-bottom: 20px;
+  padding: 21px;
+  background: #5968f4;
 }
