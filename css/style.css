@@ -112,6 +112,19 @@
   margin-top: 51px;
 }
 
+.flex-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 600px) {
+  .flex-1 {
+    flex-direction: column;
+    margin-left: 200px;
+    gap: 50px;
+  }
+}
+
 .card-1 {
   position: relative;
   border-radius: 50%;
@@ -158,4 +171,106 @@
   line-height: normal;
   margin-top: 8px;
   margin-left: -80px;
+}
+
+.card1 {
+  width: 226px;
+}
+
+.card-2 {
+  position: relative;
+  border-radius: 50%;
+  background-color: #5968f4;
+  width: 68px;
+  height: 68px;
+  margin-bottom: 16px;
+}
+
+.card2 {
+  width: 122px;
+}
+
+.phone {
+  position: absolute;
+  top: 13px;
+  left: 8px;
+}
+
+.phone-1 {
+  color: #4e4d54;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 7px;
+  margin-bottom: 8px;
+}
+
+.tel-1 {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: -20px;
+}
+
+.tel-2 {
+  display: block;
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 8px;
+  margin-left: -20px;
+}
+
+.card-3 {
+  position: relative;
+  border-radius: 50%;
+  background-color: #5968f4;
+  width: 68px;
+  height: 68px;
+  margin-bottom: 16px;
+}
+
+.locat {
+  position: absolute;
+  top: 15px;
+  left: 22px;
+}
+
+.locat-2 {
+  color: #4e4d54;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 8px;
+}
+
+.mail {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: -28px;
+}
+
+.york {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: -39px;
+  margin-top: 8px;
 }
