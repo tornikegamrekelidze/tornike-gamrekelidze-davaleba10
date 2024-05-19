@@ -325,3 +325,76 @@
     gap: 50px;
   }
 }
+/* აქ დავამთავრე მესამე სექცია */
+
+.foot-div {
+  position: relative;
+  max-width: 1600px;
+  height: 372px;
+  background-color: #000000;
+  margin-top: 39px;
+  margin-left: 60px;
+}
+
+.foot-h {
+  position: absolute;
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  top: 63px;
+  left: 143px;
+}
+
+.p-1 {
+  position: relative;
+  width: 400px;
+  height: 80px;
+}
+
+.foot-p {
+  position: absolute;
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  top: 116px;
+  left: 143px;
+}
+
+.fb {
+  position: absolute;
+  top: 219px;
+  left: 139px;
+}
+
+.tw {
+  position: absolute;
+  top: 223px;
+  left: 192px;
+}
+
+.G {
+  position: absolute;
+  top: 222px;
+  left: 237px;
+}
+
+.foo-div {
+  height: 200px;
+  width: 200px;
+  margin-left: 629px;
+}
+
+.foo-h1 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
