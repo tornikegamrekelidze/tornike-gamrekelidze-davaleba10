@@ -329,11 +329,10 @@
 
 .foot-div {
   position: relative;
-  max-width: 1600px;
+  max-width: 1690px;
   height: 372px;
   background-color: #000000;
   margin-top: 39px;
-  margin-left: 60px;
 }
 
 .foot-h {
@@ -348,7 +347,7 @@
   left: 143px;
 }
 
-.p-1 {
+.p-11 {
   position: relative;
   width: 400px;
   height: 80px;
@@ -397,4 +396,131 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  margin-bottom: 32px;
+}
+
+.blog {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 9px;
+}
+
+.rooms {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+
+.gif {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 9px;
+}
+
+.test {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.foo-div2 {
+  height: 200px;
+  width: 200px;
+  margin-left: 880px;
+  margin-top: -200px;
+}
+
+.priv {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 32px;
+}
+
+.career {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 9px;
+}
+
+.about {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+
+.contact {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 9px;
+}
+
+.serv {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.foo-div3 {
+  height: 200px;
+  width: 240px;
+  margin-left: 1200px;
+  margin-top: -200px;
+}
+
+.contact12 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 32px;
+}
+
+.aducat12 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 15px;
+}
+
+.phone123 {
+  margin-top: -60px;
 }
