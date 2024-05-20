@@ -494,13 +494,6 @@
   line-height: normal;
 }
 
-.foo-div3 {
-  height: 200px;
-  width: 240px;
-  margin-left: 1200px;
-  margin-top: -200px;
-}
-
 .contact12 {
   color: #fff;
   font-family: Helvetica;
@@ -509,6 +502,13 @@
   font-weight: 400;
   line-height: normal;
   margin-bottom: 32px;
+  margin-left: 1200px;
+  margin-top: -200px;
+}
+
+.pack {
+  margin-top: -10px;
+  margin-left: 1200px;
 }
 
 .aducat12 {
@@ -518,9 +518,18 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  margin-left: 15px;
 }
 
 .phone123 {
-  margin-top: -60px;
+  margin-left: 1200px;
+  margin-top: 10px;
+}
+
+.tel-12 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
